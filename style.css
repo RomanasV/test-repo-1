@@ -1,3 +1,7 @@
+body {
+    background-color: bisque;
+}
+
 .custom-card-body {
     border: 2px solid black;
 }
